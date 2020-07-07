@@ -8,7 +8,7 @@
             <div class="container-fluid" data-scrollax-parent="true">
                 <div class="row mt-5 d-flex justify-content-center">
                     <div class="col-md-8 text-center heading-section ftco-animate">
-                        <h2 class="h1">Desenvolvedora <strong class="px-3">WEB</strong> com 6 anos de experiência em desenvolvimento de softwares e websites customizados.</h2>
+                        <h2 class="h1">Desenvolvedora <strong class="px-3">WEB</strong> com {{date('Y') - 2014}} anos de experiência em desenvolvimento de softwares e websites customizados.</h2>
                         <p><a href="{{route('contato')}}" class="btn btn-primary mt-3 py-3 px-5">Entre em contato</a></p>
                     </div>
                 </div>
